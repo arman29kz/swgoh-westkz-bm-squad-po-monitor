@@ -9,7 +9,7 @@
     "Name": "Ace McKenzie",
     "Flag": ":flag_au:",
     "SWGOH": "<https://swgoh.gg/p/542531373/>",
-    "UTC": "7:00"
+    "UTC": "07:00"
   },
   {
     "Name": "Archie",
@@ -22,12 +22,36 @@
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/525964522/>",
     "UTC": "22:00"
-  },  
+  },
+  {
+    "Name": "Beastmode",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/828279636/>",
+    "UTC": "20:00"
+  },
+  {
+    "Name": "Blerg",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/625556631/>",
+    "UTC": "20:00"
+  },
+  {
+    "Name": "Boujeebeatbass",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/886224756/>",
+    "UTC": "22:00"
+  },
   {
     "Name": "BrutalMagicianKZ",
     "Flag": ":flag_kz:",
     "SWGOH": "<https://swgoh.gg/p/494881567/>",
     "UTC": "10:00"
+  },
+  {
+    "Name": "Craftwerk",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/363459986/>",
+    "UTC": "14:00"
   },
   {
     "Name": "Crivoj",
@@ -36,10 +60,70 @@
     "UTC": "12:00"
   },
   {
+    "Name": "Crook",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/871717857/>",
+    "UTC": "22:00"
+  },
+  {
     "Name": "DarkMatter",
     "Flag": ":flag_gb:",
     "SWGOH": "<https://swgoh.gg/p/793875245/>",
     "UTC": "16:00"
+  },
+  {
+    "Name": "Darrrth Bosssk",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/941665199/>",
+    "UTC": "01:00"
+  },
+  {
+    "Name": "DarthCubs",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/448771136/>",
+    "UTC": "22:00"
+  },
+  {
+    "Name": "DarthKenobi",
+    "Flag": ":flag_gb:",
+    "SWGOH": "<https://swgoh.gg/p/611172831/>",
+    "UTC": "18:00"
+  },
+  {
+    "Name": "Denizen Kain",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/834547262/>",
+    "UTC": "06:00"
+  },
+  {
+    "Name": "DK",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/324282925/>",
+    "UTC": "12:00"
+  },
+  {
+    "Name": "Edi",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/272325984/>",
+    "UTC": "13:00"
+  },
+  {
+    "Name": "Elimneth",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/935791848/>",
+    "UTC": "13:00"
+  },
+  {
+    "Name": "flow",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/391664767/>",
+    "UTC": "23:00"
+  },
+  {
+    "Name": "Garym Atheau",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/342265322/>",
+    "UTC": "19:00"
   },
   {
     "Name": "GG3gotHate",
@@ -48,16 +132,124 @@
     "UTC": "22:00"
   },
   {
+    "Name": "GrumpyGamer",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/379614988/>",
+    "UTC": "03:00"
+  },
+  {
     "Name": "Guigui",
     "Flag": ":flag_fr:",
     "SWGOH": "<https://swgoh.gg/p/949644788/>",
     "UTC": "17:00"
   },
   {
+    "Name": "Guijar",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/962353938/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Guilty",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/831771555/>",
+    "UTC": "20:00"
+  },
+  {
     "Name": "Hankestein",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/729385641/>",
-    "UTC": "0:00"
+    "UTC": "00:00"
+  },
+  {
+    "Name": "Hiro42お",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/725497542/>",
+    "UTC": "00:00"
+  },
+  {
+    "Name": "hjkz",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/815848241/>",
+    "UTC": "11:00"
+  },
+  {
+    "Name": "Inferno6",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/153238875/>",
+    "UTC": "19:00"
+  },
+  {
+    "Name": "Jamesjr",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/335427128/>",
+    "UTC": "19:00"
+  },
+  {
+    "Name": "JasDP",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/321143534/>",
+    "UTC": "22:00"
+  },
+  {
+    "Name": "Jazuro",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/393453149/>",
+    "UTC": "17:00"
+  },
+  {
+    "Name": "Jewemy",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/398875535/>",
+    "UTC": "05:00"
+  },
+  {
+    "Name": "jmoney",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/151379317/>",
+    "UTC": "23:00"
+  },
+  {
+    "Name": "Judge Gabranth",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/294497146/>",
+    "UTC": "10:00"
+  },
+  {
+    "Name": "Kavaza",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/984938675/>",
+    "UTC": "19:00"
+  },
+  {
+    "Name": "KekoloCoronaVirus",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/171848417/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Lyani",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/114279632/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "mace",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/863588455/>",
+    "UTC": "13:00"
+  },
+  {
+    "Name": "Matty P",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/727245453/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Mrubio",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/835518578/>",
+    "UTC": "17:00"
   },
   {
     "Name": "Oberon 99XJZ",
@@ -66,15 +258,153 @@
     "UTC": "22:00"
   },
   {
+    "Name": "Obi Rei Vax",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/934694433/>",
+    "UTC": "02:00"
+  },
+  {
+    "Name": "Oringan",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/675335935/>",
+    "UTC": "18:00"
+  },
+  {
+    "Name": "priroda",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/866571951/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Ragecon",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/589984633/>",
+    "UTC": "19:00"
+  },
+  {
+    "Name": "Ram Rod",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/328922858/>",
+    "UTC": "00:00"
+  },
+  {
+    "Name": "Raptor",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/344382498/>",
+    "UTC": "04:00"
+  },
+  {
+    "Name": "RedDevil",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/315248463/>",
+    "UTC": "13:00"
+  },
+  {
+    "Name": "RedneckRambo",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/931398257/>",
+    "UTC": "22:00"
+  },
+  {
+    "Name": "Ronin",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/533389959/>",
+    "UTC": "17:00"
+  },
+  {
+    "Name": "SAS",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/228351155/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Starlight",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/155613736/>",
+    "UTC": "18:00"
+  },
+  {
+    "Name": "Sweety Pod",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/124544265/>",
+    "UTC": "12:00"
+  },
+  {
+    "Name": "TotoMok",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/642563955/>",
+    "UTC": "13:00"
+  },
+  {
+    "Name": "Toyoda",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/391699538/>",
+    "UTC": "01:00"
+  },
+  {
+    "Name": "TWill88",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/494485598/>",
+    "UTC": "02:00"
+  },
+  {
+    "Name": "Vestara Khai",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/894158247/>",
+    "UTC": "23:00"
+  },
+  {
+    "Name": "Viral Ren",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/977117936/>",
+    "UTC": "21:00"
+  },
+  {
+    "Name": "Vlarcatur",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/515774745/>",
+    "UTC": "21:00"
+  },
+  {
+    "Name": "Wahalo Rio",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/376917952/>",
+    "UTC": "15:00"
+  },
+  {
+    "Name": "Xero",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/114224762/>",
+    "UTC": "19:00"
+  },
+  {
     "Name": "yurky",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/264484858/>",
     "UTC": "22:00"
   },
   {
+    "Name": "ΩΔ Greenmango",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/577455762/>",
+    "UTC": "19:00"
+  },
+  {
+    "Name": "Арликин",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/297444454/>",
+    "UTC": "15:00"
+  },
+  {
     "Name": "Ужас ХоЛоДиЛьНиКа",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/728653778/>",
     "UTC": "16:00"
-  }
+  },
+  {
+    "Name": "文体两开花",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/216854525/>",
+    "UTC": "05:00"
+  },
 ]
