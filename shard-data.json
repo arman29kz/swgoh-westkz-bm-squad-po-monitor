@@ -288,6 +288,12 @@
     "UTC": "04:00"
   },
   {
+    "Name": "RD45",
+    "Flag": ":checkered_flag:",
+    "SWGOH": "<https://swgoh.gg/p/459588171/>",
+    "UTC": "19:00"
+  },
+  {
     "Name": "RedDevil",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/315248463/>",
@@ -334,6 +340,12 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/391699538/>",
     "UTC": "01:00"
+  },
+  {
+    "Name": "tuippi",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/277552643/>",
+    "UTC": "14:00"
   },
   {
     "Name": "TWill88",
