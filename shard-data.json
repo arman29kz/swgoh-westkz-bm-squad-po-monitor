@@ -1,7 +1,7 @@
 [
   {
     "Name": "7ender",
-    "Flag": ":crossed_flags:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/878174741/>",
     "UTC": "16:00"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Archie",
-    "Flag": ":flags:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/346287285/>",
     "UTC": "17:00"
   },
@@ -43,7 +43,7 @@
   },
   {
     "Name": "GG3gotHate",
-    "Flag": ":pirate_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/825783663/>",
     "UTC": "22:00"
   },
@@ -70,5 +70,11 @@
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/264484858/>",
     "UTC": "22:00"
+  },
+  {
+    "Name": "Ужас ХоЛоДиЛьНиКа",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/728653778/>",
+    "UTC": "16:00"
   }
 ]
