@@ -115,9 +115,9 @@
   },
   {
     "Name": "Garym Atheau",
-    "Flag": ":checkered_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/342265322/>",
-    "UTC": "19:00"
+    "UTC": "22:00"
   },
   {
     "Name": "GG3gotHate",
@@ -169,15 +169,15 @@
   },
   {
     "Name": "Inferno6",
-    "Flag": ":checkered_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/153238875/>",
-    "UTC": "19:00"
+    "UTC": "21:00"
   },
   {
     "Name": "Jamesjr",
-    "Flag": ":checkered_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/335427128/>",
-    "UTC": "19:00"
+    "UTC": "22:00"
   },
   {
     "Name": "JasDP",
@@ -211,15 +211,21 @@
   },
   {
     "Name": "Kavaza",
-    "Flag": ":checkered_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/984938675/>",
-    "UTC": "19:00"
+    "UTC": "18:00"
   },
   {
     "Name": "KekoloCoronaVirus",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/171848417/>",
     "UTC": "15:00"
+  },
+  {
+    "Name": "LaoZ",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/545575754/>",
+    "UTC": "1:00"
   },
   {
     "Name": "Lyani",
@@ -238,6 +244,12 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/727245453/>",
     "UTC": "15:00"
+  },
+  {
+    "Name": "Mongoose",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/284439516/>",
+    "UTC": "16:00"
   },
   {
     "Name": "Mrubio",
@@ -379,9 +391,9 @@
   },
   {
     "Name": "Xero",
-    "Flag": ":checkered_flag:",
+    "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/114224762/>",
-    "UTC": "19:00"
+    "UTC": "5:00"
   },
   {
     "Name": "yurky",
