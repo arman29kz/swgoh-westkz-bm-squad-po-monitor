@@ -270,10 +270,22 @@
     "UTC": "02:00"
   },
   {
+    "Name": "Onid",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/378971669/>",
+    "UTC": "21:00"
+  },
+  {
     "Name": "Oringan",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/675335935/>",
     "UTC": "18:00"
+  },
+  {
+    "Name": "PabloDiego",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/915933658/>",
+    "UTC": "23:00"
   },
   {
     "Name": "priroda",
