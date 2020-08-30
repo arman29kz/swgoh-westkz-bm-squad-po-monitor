@@ -319,7 +319,7 @@
   },
   {
     "Name": "priroda",
-    "Flag": ":flag_white:",
+    "Flag": ":flag_ru:",
     "SWGOH": "<https://swgoh.gg/p/866571951/>",
     "UTC": "15:00"
   },
@@ -382,6 +382,12 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/124544265/>",
     "UTC": "12:00"
+  },
+  {
+    "Name": "T2",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/928745659/>",
+    "UTC": "23:00"
   },
   {
     "Name": "TK",
