@@ -1,11 +1,5 @@
 [
   {
-    "Name": "7ender",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/878174741/>",
-    "UTC": "16:00"
-  },
-  {
     "Name": "Ace McKenzie",
     "Flag": ":flag_au:",
     "SWGOH": "<https://swgoh.gg/p/542531373/>",
@@ -108,22 +102,10 @@
     "UTC": "22:00"
   },
   {
-    "Name": "Denizen Kain",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/834547262/>",
-    "UTC": "06:00"
-  },
-  {
     "Name": "DK",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/324282925/>",
     "UTC": "12:00"
-  },
-  {
-    "Name": "Edi",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/272325984/>",
-    "UTC": "13:00"
   },
   {
     "Name": "Elimneth",
@@ -201,7 +183,7 @@
     "Name": "HkT JACKY",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/488125776/>",
-    "UTC": "9:00"
+    "UTC": "09:00"
   },
   {
     "Name": "Howie",
@@ -226,12 +208,6 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/972771925/>",
     "UTC": "14:00"
-  },
-  {
-    "Name": "Jazuro",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/393453149/>",
-    "UTC": "17:00"
   },
   {
     "Name": "Jewemy",
@@ -280,12 +256,6 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/545575754/>",
     "UTC": "1:00"
-  },
-  {
-    "Name": "Lyani",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/114279632/>",
-    "UTC": "15:00"
   },
   {
     "Name": "mace",
@@ -363,7 +333,7 @@
     "Name": "Porkinslayer",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/448311651/>",
-    "UTC": "1:00"
+    "UTC": "01:00"
   },
   {
     "Name": "priroda",
@@ -438,12 +408,6 @@
     "UTC": "1:00"
   },
   {
-    "Name": "Sweety Pod",
-    "Flag": ":flag_white:",
-    "SWGOH": "<https://swgoh.gg/p/124544265/>",
-    "UTC": "12:00"
-  },
-  {
     "Name": "T2",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/928745659/>",
@@ -453,7 +417,7 @@
     "Name": "The Coug Abides",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/785789566/>",
-    "UTC": "3:00"
+    "UTC": "03:00"
   },
   {
     "Name": "TK",
@@ -519,7 +483,7 @@
     "Name": "Xero",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/114224762/>",
-    "UTC": "5:00"
+    "UTC": "05:00"
   },
   {
     "Name": "yurky",
