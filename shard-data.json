@@ -66,6 +66,12 @@
     "UTC": "10:00"
   },
   {
+    "Name": "Corran Horn",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/491993564/>",
+    "UTC": "15:00"
+  },
+  {
     "Name": "Cowboy",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/645331225/>",
@@ -156,6 +162,12 @@
     "UTC": "22:00"
   },
   {
+    "Name": "gOdZuLu",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/271463459/>",
+    "UTC": "22:00"
+  },
+  {
     "Name": "GrumpyGamer",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/379614988/>",
@@ -192,10 +204,22 @@
     "UTC": "11:00"
   },
   {
+    "Name": "HkT JACKY",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/488125776/>",
+    "UTC": "9:00"
+  },
+  {
     "Name": "Howie",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/226434853/>",
     "UTC": "23:00"
+  },
+  {
+    "Name": "Ingerlund",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/233979577/>",
+    "UTC": "18:00"
   },
   {
     "Name": "Jamesjr",
@@ -408,10 +432,28 @@
     "UTC": "15:00"
   },
   {
+    "Name": "Skyfawker",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/629314171/>",
+    "UTC": "22:00"
+  },
+  {
     "Name": "Starlight",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/155613736/>",
     "UTC": "18:00"
+  },
+  {
+    "Name": "Stek Haus",
+    "Flag": ":flag_fr:",
+    "SWGOH": "<https://swgoh.gg/p/123228124/>",
+    "UTC": "12:00"
+  },
+  {
+    "Name": "Sunila Blue",
+    "Flag": ":flag_white:",
+    "SWGOH": "<https://swgoh.gg/p/376436793/>",
+    "UTC": "1:00"
   },
   {
     "Name": "Sweety Pod",
