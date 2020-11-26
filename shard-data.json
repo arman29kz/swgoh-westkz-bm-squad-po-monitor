@@ -66,6 +66,12 @@
     "UTC": "15:00"
   },
   {
+    "Name": "Catote",
+    "Flag": ":flag_dk:",
+    "SWGOH": "<https://swgoh.gg/p/862389537/>",
+    "UTC": "11:00"
+  },
+  {
     "Name": "Craftwerk",
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/363459986/>",
@@ -256,6 +262,12 @@
     "Flag": ":flag_white:",
     "SWGOH": "<https://swgoh.gg/p/545575754/>",
     "UTC": "1:00"
+  },
+  {
+    "Name": "Lanval",
+    "Flag": ":flag_ca:",
+    "SWGOH": "<https://swgoh.gg/p/267449147/>",
+    "UTC": "23:00"
   },
   {
     "Name": "mace",
