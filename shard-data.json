@@ -24,6 +24,12 @@
     "UTC": "22:00"
   },
   {
+    "Name": "bananakin",
+    "Flag": ":flag_it:",
+    "SWGOH": "<https://swgoh.gg/p/529191692/>",
+    "UTC": "16:00"
+  },
+  {
     "Name": "Barrix",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/525964522/>",
@@ -34,6 +40,12 @@
     "Flag": ":united_nations:",
     "SWGOH": "<https://swgoh.gg/p/828279636/>",
     "UTC": "20:00"
+  },
+  {
+    "Name": "Breske",
+    "Flag": ":pirate_flag:",
+    "SWGOH": "<https://swgoh.gg/p/253172767/>",
+    "UTC": "22:00"
   },
   {
     "Name": "Brox",
@@ -76,12 +88,6 @@
     "Flag": ":flag_de:",
     "SWGOH": "<https://swgoh.gg/p/166293818/>",
     "UTC": "17:00"
-  },
-  {
-    "Name": "DarkMatter",
-    "Flag": ":flag_gb:",
-    "SWGOH": "<https://swgoh.gg/p/793875245/>",
-    "UTC": "18:00"
   },
   {
     "Name": "Darrrth Bosssk",
@@ -198,12 +204,6 @@
     "UTC": "07:00"
   },
   {
-    "Name": "kingdellabanana",
-    "Flag": ":flag_it:",
-    "SWGOH": "<https://swgoh.gg/p/529191692/>",
-    "UTC": "16:00"
-  },
-  {
     "Name": "Lanval",
     "Flag": ":flag_ca:",
     "SWGOH": "<https://swgoh.gg/p/267449147/>",
@@ -238,6 +238,12 @@
     "Flag": ":united_nations:",
     "SWGOH": "<https://swgoh.gg/p/645331225/>",
     "UTC": "22:00"
+  },
+  {
+    "Name": "Œ DarkMatter",
+    "Flag": ":flag_gb:",
+    "SWGOH": "<https://swgoh.gg/p/793875245/>",
+    "UTC": "18:00"
   },
   {
     "Name": "Onid",
@@ -316,6 +322,12 @@
     "Flag": ":pirate_flag:",
     "SWGOH": "<https://swgoh.gg/p/629314171/>",
     "UTC": "22:00"
+  },
+  {
+    "Name": "Slayer51582",
+    "Flag": ":united_nations:",
+    "SWGOH": "<https://swgoh.gg/p/448311651/>",
+    "UTC": "01:00"
   },
   {
     "Name": "SoiFong",
